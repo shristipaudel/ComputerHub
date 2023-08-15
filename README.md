@@ -3,7 +3,7 @@ Computer Hub Developed by: Shristi Paudel
 
 
 
-######it is about a computer specifications that give details about computers for users easeness. It is developed in #python #djangoframework.
+It is about a computer specifications that give details about computers for users easeness. It is developed in #python #djangoframework.
 
 if user.is_superuser :
 
